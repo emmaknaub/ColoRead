@@ -28,7 +28,7 @@ Images and graphics can be uploaded through the import function as PNG and JPEG 
 
 If you wish to contribute to ColoRead, please read the <u>contributor documentation</u>.
 
-ColoRead follows the <u>Contributor Covenant</u> Code of Conduct.
+ColoRead follows the [Contributor Covenant Code of Conduct](CODE-OF-CONDUCT.md).
 
 #### License
 
