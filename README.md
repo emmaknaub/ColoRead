@@ -7,6 +7,9 @@ ColoRead uses a simple algorithm to scan the pictures and graphics you wish to u
 
 With ColoRead, your digital designs will always look put together and professional. 
 
+![gif](https://media.giphy.com/media/5xtDarziy6FezwXWCbu/giphy.gif) 
+This is how you'll feel when you get the perfect color theme with ColoRead!
+
 ------
 
 ### Getting Started
