@@ -35,7 +35,7 @@ ColoRead follows the <u>Contributor Covenant</u> Code of Conduct.
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 ColoRead is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-Read our License [here](emmaknaub/ColoRead/LICENSE.md).
+Read our License [here](LICENSE.md).
 
 ------
 
