@@ -1,4 +1,5 @@
 # ColoRead
+![logo](http://www.mgxcopy.com/mindshare/wp-content/uploads/2015/05/2000px-BYR_color_wheel.svg_.png)
 
 ColoRead is a digital art program that makes designing posters, fliers, and other digital media easier. 
 
