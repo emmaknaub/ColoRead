@@ -5,6 +5,10 @@ ColoRead is a digital art program that makes designing posters, fliers, and othe
 
 ColoRead uses a simple algorithm to scan the pictures and graphics you wish to use for a digital arts project, identify the main colors present, and generate custom color themes to complement your picture. You can then use these or any other themes to create your digital media project using any of our 200+ fonts and 500+ designs, or import your own!
 
+![picture](/Users/emmaknaub/Desktop/coolors.jpg)
+
+Your suggested color schemes might look like this.
+
 With ColoRead, your digital designs will always look put together and professional. 
 
 ![gif](https://media.giphy.com/media/5xtDarziy6FezwXWCbu/giphy.gif) 
